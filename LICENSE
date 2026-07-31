@@ -1,0 +1,155 @@
+=================================================================
+                  SOFTWARE AND HARDWARE LICENSE
+=================================================================
+      Copyright (c) 2026 Nguyên Thoại. All Rights Reserved.
+
+THIS DOCUMENT IS A LEGAL AGREEMENT BETWEEN YOU (THE "RECIPIENT")
+AND THE AUTHOR (Nguyên Thoại). BY ACCESSING, USING, FLASHING,
+COPYING, OR OTHERWISE UTILIZING ANY PART OF THE SOURCE CODE,
+FIRMWARE (INCLUDING .BIN FILES), SCHEMATICS, PCB DESIGNS, OR
+GERBER FILES (COLLECTIVELY, THE "WORK"), YOU UNCONDITIONALLY
+AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
+
+-----------------------------------------------------------------
+ARTICLE I: WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+-----------------------------------------------------------------
+THE WORK IS PROVIDED ON AN "AS-IS" AND "AS-AVAILABLE" BASIS
+WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED,
+STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, NON-INFRINGEMENT, OR ACCURACY.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES,
+INCLUDING BUT NOT LIMITED TO HARDWARE FAILURE, DEVICE BRICKING,
+DATA LOSS, FLASH MEMORY CORRUPTION, PROPERTY DAMAGE, FINANCIAL
+LOSS, OR BUSINESS INTERRUPTION, ARISING OUT OF OR IN CONNECTION
+WITH THE USE, UPDATE, OR INABILITY TO USE THE WORK, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-----------------------------------------------------------------
+ARTICLE II: DEFINITIONS
+-----------------------------------------------------------------
+For the purposes of this License:
+- Third-party tools or utilities referenced or used in connection
+  with the Work (including Image Tool) are publicly available
+  software provided by their respective owners (e.g., Ai-Thinker).
+  The Author does not claim ownership or authorship of such tools.
+- "Work" means all materials provided by the Author, including
+  firmware (.bin files), source code (if any), schematics, PCB
+  layouts, Gerber files, and related documentation.
+- "Firmware" refers to compiled binary files intended to be
+  flashed onto hardware devices.
+- "Device" means any hardware containing or executing the Work.
+- "Commercial Use" means any use intended for sale, resale,
+  monetization, mass production, or profit-oriented distribution.
+
+-----------------------------------------------------------------
+ARTICLE III: OWNERSHIP OF INTELLECTUAL PROPERTY
+-----------------------------------------------------------------
+The Work is protected by applicable national and international
+copyright laws and treaties. The Author retains all right, title,
+and interest, including all intellectual property rights, in and
+to the Work.
+
+This License does not constitute a sale or transfer of ownership
+of the Work or any portion thereof.
+
+-----------------------------------------------------------------
+ARTICLE IV: UPDATES AND SUPPORT
+-----------------------------------------------------------------
+The Author is under no obligation to provide updates, bug fixes,
+security patches, or technical support for the Work.
+
+The Author shall not be held responsible for any malfunction,
+instability, permanent damage, or data loss (including device
+bricking or flash memory corruption) resulting from firmware
+updates, reflashing, or configuration changes.
+
+-----------------------------------------------------------------
+ARTICLE V: GRANT OF LIMITED LICENSE
+-----------------------------------------------------------------
+Subject to full compliance with this License, the Author grants
+the Recipient a limited, non-exclusive, non-transferable,
+non-sublicensable, and revocable license to use the Work solely
+for personal, private, non-commercial, and evaluation purposes.
+
+All rights not expressly granted herein are reserved by the
+Author.
+
+-----------------------------------------------------------------
+ARTICLE VI: COMMERCIAL USE AND PRODUCTION RESTRICTIONS
+-----------------------------------------------------------------
+The Recipient is strictly prohibited from using the Work, in
+whole or in part, for any Commercial Use.
+
+Manufacturing, selling, distributing, or integrating physical
+products (including printed circuit boards produced from the
+provided Gerber files) is forbidden without a separate written
+commercial license executed by the Author.
+
+-----------------------------------------------------------------
+ARTICLE VII: FIRMWARE INTEGRITY AND ANTI-EXTRACTION
+-----------------------------------------------------------------
+The Recipient shall not extract, dump, copy, clone, or reproduce
+the contents of firmware or flash memory from any Device
+containing the Work by any means, including but not limited to
+software tools, debug interfaces, or physical access methods.
+
+Possession, use, or distribution of firmware files extracted
+from hardware devices without authorization constitutes a
+serious violation of this License and applicable copyright law.
+
+-----------------------------------------------------------------
+ARTICLE VIII: MODIFICATION AND DERIVATIVE WORKS
+-----------------------------------------------------------------
+The Recipient shall not modify, adapt, translate, reverse
+engineer, decompile, disassemble, or create derivative works
+based on the Work, in whole or in part.
+
+Any altered or derived version of the Work is considered an
+unauthorized derivative and is strictly prohibited.
+
+-----------------------------------------------------------------
+ARTICLE IX: REDISTRIBUTION, PUBLIC SHOWCASE, AND AUTHOR IDENTITY
+-----------------------------------------------------------------
+The Recipient shall not upload, publish, share, mirror, or
+redistribute any part of the Work, including firmware (.bin
+files), schematics, or Gerber files, to any public or private
+platform without prior written consent from the Author.
+
+Notwithstanding the above, the Recipient is permitted to post
+images, videos, or demonstrations of devices running the Work
+solely for non-commercial showcase, educational, or personal
+presentation purposes, provided that:
+
+(a) No firmware, binary files, schematics, Gerber files, or
+    technical implementation details are shared or disclosed;
+
+(b) The Author is clearly and prominently credited by name
+    (Nguyên Thoại) as the creator of the Work;
+
+(c) Such posting does not imply endorsement, partnership, or
+    commercial availability of the Work.
+
+Failure to provide proper attribution shall constitute a
+material breach of this License.
+
+The name, trademarks, logos, or identity of the Author shall not
+be used for advertising, promotion, resale, or endorsement
+purposes without explicit prior written authorization.
+
+-----------------------------------------------------------------
+ARTICLE X: TERMINATION
+-----------------------------------------------------------------
+Any violation of this License shall result in immediate and
+automatic termination of all rights granted herein.
+
+Upon termination, the Recipient must immediately cease all use
+of the Work and permanently delete or destroy all copies,
+whether digital or physical, in their possession or control.
+
+=================================================================
+FOR COMMERCIAL LICENSING INQUIRIES:
+Email: dnthoai11@gmail.com
+=================================================================
